@@ -1,0 +1,14 @@
+.container {
+  min-height: 100vh;
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.login-form {
+  width: 100% !important;
+}
+.or {
+  margin: 48px;
+}
